@@ -1,0 +1,7 @@
+C:\Users\Silviu\Documents\Facultate\DBMS\Lab1\Lab1ConsoleApp\Lab1ConsoleApp\bin\Debug\Lab1ConsoleApp.exe.config
+C:\Users\Silviu\Documents\Facultate\DBMS\Lab1\Lab1ConsoleApp\Lab1ConsoleApp\bin\Debug\Lab1ConsoleApp.exe
+C:\Users\Silviu\Documents\Facultate\DBMS\Lab1\Lab1ConsoleApp\Lab1ConsoleApp\bin\Debug\Lab1ConsoleApp.pdb
+C:\Users\Silviu\Documents\Facultate\DBMS\Lab1\Lab1ConsoleApp\Lab1ConsoleApp\obj\Debug\Lab1ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Silviu\Documents\Facultate\DBMS\Lab1\Lab1ConsoleApp\Lab1ConsoleApp\obj\Debug\Lab1ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Silviu\Documents\Facultate\DBMS\Lab1\Lab1ConsoleApp\Lab1ConsoleApp\obj\Debug\Lab1ConsoleApp.exe
+C:\Users\Silviu\Documents\Facultate\DBMS\Lab1\Lab1ConsoleApp\Lab1ConsoleApp\obj\Debug\Lab1ConsoleApp.pdb
